@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Sima Saadi
+
+🔭 I’m currently working on **advanced analytics pipelines**, geospatial analysis, and turning complex datasets into clear insights and dashboards.  
+🌱 I’m currently learning **better data engineering patterns**, automated workflows, and improving the UX of analytical dashboards.  
+👯 I’m looking to collaborate on **data analysis, dashboard design, geospatial modelling, and research-driven analytics**.  
+💬 Ask me about **Python, SQL, data visualization, geospatial analysis, environmental and municipal datasets, and research methodology**.  
+📫 How to reach me: **www.linkedin.com/in/sima-saadi** | **sima.saadi@torontomu.ca**  
 
 <!--
 **simasaadi/simasaadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
