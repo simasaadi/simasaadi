@@ -6,6 +6,10 @@
 💬 Ask me about **Python, SQL, data visualization, geospatial analysis, environmental and municipal datasets, and research methodology**.  
 📫 How to reach me: **www.linkedin.com/in/sima-saadi** | **sima.saadi@torontomu.ca**  
 
+📊 Dashboard Gallery (Streamlit)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sima-saadi/)
+
 <!--
 **simasaadi/simasaadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
