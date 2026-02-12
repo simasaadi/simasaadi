@@ -4,16 +4,16 @@ I build decision-support analytics for public-sector and environmental problems.
 
 My edge is the combination of **analytics + geospatial + data governance** — I ship work as dashboards, maps, and decision-ready briefs that stay reliable in multi-team, multi-system environments.
 
-**What I do**
+** 🔧 What I do**
 - **Data science + analytics engineering:** data cleaning/validation, SQL modeling, KPI design, automated pipelines, and dashboards  
 - **GIS + spatial analytics:** ArcGIS/QGIS/PostGIS workflows, spatial joins, hotspot-style analysis, map-based decision products  
 - **Data governance in practice:** standards, SOPs, access controls, quality checks, and adoption tools across complex organizations  
 
-**Current focus**
+** 🎯 Current focus**
 - **Data Governance Functional Model (City of Toronto):** turning governance into operational procedures, controls, and decision products  
 - **Environmental + water analytics:** trends, anomalies, and monitoring dashboards for large public datasets  
 
-**Specialties:** analytics engineering · data quality controls · spatial analysis · decision support · governance tooling  
+**  🧠  Specialties:** analytics engineering · data quality controls · spatial analysis · decision support · governance tooling  
 **Stack:** Python · R · SQL (PostgreSQL/PostGIS) · Power BI/Tableau · Streamlit · ArcGIS/QGIS
 
 
