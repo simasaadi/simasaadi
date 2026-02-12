@@ -1,9 +1,22 @@
 ## Hi there 👋 My name is Sima Saadi
 
-🔭 I’m currently working on **advanced analytics pipelines**, geospatial analysis, and turning complex datasets into clear insights and dashboards.  
-🌱 I’m currently learning **better data engineering patterns**, automated workflows, and improving the UX of analytical dashboards.  
-👯 I’m looking to collaborate on **data analysis, dashboard design, geospatial modelling, and research-driven analytics**.  
-💬 Ask me about **Python, SQL, data visualization, geospatial analysis, environmental and municipal datasets, and research methodology**.  
+I build decision-support analytics for public-sector and environmental problems. That usually means reproducible data workflows (Python/R/SQL), geospatial analysis, and practical governance + quality controls so the outputs hold up in real operations.
+
+My edge is the combination of **analytics + geospatial + data governance** — I ship work as dashboards, maps, and decision-ready briefs that stay reliable in multi-team, multi-system environments.
+
+**What I do**
+- **Data science + analytics engineering:** data cleaning/validation, SQL modeling, KPI design, automated pipelines, and dashboards  
+- **GIS + spatial analytics:** ArcGIS/QGIS/PostGIS workflows, spatial joins, hotspot-style analysis, map-based decision products  
+- **Data governance in practice:** standards, SOPs, access controls, quality checks, and adoption tools across complex organizations  
+
+**Current focus**
+- **Data Governance Functional Model (City of Toronto):** turning governance into operational procedures, controls, and decision products  
+- **Environmental + water analytics:** trends, anomalies, and monitoring dashboards for large public datasets  
+
+**Specialties:** analytics engineering · data quality controls · spatial analysis · decision support · governance tooling  
+**Stack:** Python · R · SQL (PostgreSQL/PostGIS) · Power BI/Tableau · Streamlit · ArcGIS/QGIS
+
+
 📫 How to reach me: **www.linkedin.com/in/sima-saadi** | **sima.saadi@torontomu.ca**  
 
 📊 Dashboard Gallery (Streamlit)
