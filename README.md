@@ -2,7 +2,7 @@
 
 I build decision-support analytics for public-sector and environmental problems. That usually means reproducible data workflows (Python/R/SQL), geospatial analysis, and practical governance + quality controls so the outputs hold up in real operations.
 
-I use GitHub to demonstrate practical data governance delivery: operating models, stewardship workflows, metadata and lineage design, data quality controls, access governance, AI governance, and analytics engineering pipelines. My portfolio is built to show how governance moves from policy into working tools, measurable controls, and adoption-ready operating practices.
+I use GitHub to demonstrate practical data governance delivery: operating models, stewardship workflows, metadata and lineage design, data quality controls, access governance, AI governance, and analytics engineering pipelines. The work here is focused on turning governance from policy into usable operating tools, measurable controls, and practices that teams can adopt.
 
 My edge is the combination of **analytics + geospatial + data governance** — I ship work as dashboards, maps, and decision-ready briefs that stay reliable in multi-team, multi-system environments.
 
